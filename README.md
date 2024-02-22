@@ -10,7 +10,7 @@
 
 - 🔭 As a personal project, I’m currently working on **a confectionery order system with Java 17, Spring Boot, and follows Domain-Driven Design (DDD) and Test-Driven Development (TDD) principles. Firebase handles authentication for secure access, and Jasper Reports is integrated for PDF generation, specifically for tracking customer orders.**
 
-- 🌱 I’m currently learning: **Swift and SwiftUI**
+- 🌱 I’m currently learning: **React**
 
 - 🎨 My tech palette includes: **Java, Azure, IBM WebSphere, T-SQL, SQL Server, Spring Boot, Spring MVC, JAX-RS, Java EE, Jasper Reports, Vaadin Flow, HTML5, JavaScript, CSS, jQuery, Struts 2, DDD, TDD**
 
