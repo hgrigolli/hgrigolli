@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Henrique Grigolli</h1>
-<h3 align="center">A experienced Java Developer from Brazil</h3>
+<h3 align="center"></h3>
 
 - 👨🏻‍💻 Java Developer at SISTRAN Informatica:
   - Led and guided a team of four developers in their tasks 🤝.
@@ -8,15 +8,13 @@
   - Providing support to new team members, aiding in their understanding of the codebase and intricacies of the insurance claim business 🤓.
   - Monitoring production applications using Dynatrace 🔄.
 
-- 🔭 As a personal project, I’m currently working on **a confectionery order system with Java 17, Spring Boot, and follows Domain-Driven Design (DDD) and Test-Driven Development (TDD) principles. Firebase handles authentication for secure access, and Jasper Reports is integrated for PDF generation, specifically for tracking customer orders.**
+- 🌱 I’m currently learning: **Data Science**
 
-- 🌱 I’m currently learning: **React**
-
-- 🎨 My tech palette includes: **Java, Azure, IBM WebSphere, T-SQL, SQL Server, Spring Boot, Spring MVC, JAX-RS, Java EE, Jasper Reports, Vaadin Flow, HTML5, JavaScript, CSS, jQuery, Struts 2, DDD, TDD**
+- 🎨 My tech palette includes: **Java, Python, SQL, AWS, Azure, IBM WebSphere, SQL Server, Spring Boot, Spring MVC, JAX-RS, Java EE, Jasper Reports, Vaadin Flow, HTML5, JavaScript, CSS, jQuery, Struts 2, DDD, TDD**
 
 - 🌟 Certifications: **Azure AZ-900**
 
-- 💬 Ask me about: **Java**
+- 💬 Ask me about: **Data Science / Java**
 
 - 📫 How to reach me: **henrique at grigolli dot dev**
 
