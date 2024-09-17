@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning: **Data Science**
 
-- 🎨 My tech palette includes: **Java, Python, SQL, AWS, Azure, IBM WebSphere, SQL Server, Spring Boot, Spring MVC, JAX-RS, Java EE, Jasper Reports, Vaadin Flow, HTML5, JavaScript, CSS, jQuery, Struts 2, DDD, TDD**
+- 🎨 My tech palette includes: **Java, Python, SQL, AWS, Azure, IBM WebSphere, SQL Server, Spring Boot, Spring MVC, JAX-RS, Java EE, Jasper Reports, Vaadin Flow,  Django, Flask, HTML5, JavaScript, CSS, jQuery, Struts 2, DDD, TDD**
 
 - 🌟 Certifications: **Azure AZ-900**
 
