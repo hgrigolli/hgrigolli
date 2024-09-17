@@ -2,11 +2,13 @@
 <h3 align="center"></h3>
 
 - 👨🏻‍💻 Java Developer at SISTRAN Informatica:
-  - Led and guided a team of four developers in their tasks 🤝.
-  - Developing and maintaining web applications in the insurance field, specifically in the insurance claim branch 🌐.
-  - Developing and maintaining REST APIs for insurance claim regulation 🚀.
-  - Providing support to new team members, aiding in their understanding of the codebase and intricacies of the insurance claim business 🤓.
-  - Monitoring production applications using Dynatrace 🔄.
+  - Acted as a technical leader in an agile squad, participating in Scrum ceremonies and facilitating discussions to
+  support decision-making and conflict resolution
+  - Suggested, tested, and monitored the adoption of new technologies, driving innovation and continuous
+  improvement in software development
+  - Wrote clean, tested, and well-documented code, while proposing solutions for complex programming problems
+  - Provided technical guidance as well as mentorship to junior developers
+  - Supervised sprint execution and tracking, ensuring deliveries aligned with technical and business requirements
 
 - 🌱 I’m currently learning: **Data Science**
 
