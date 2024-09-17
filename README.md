@@ -16,7 +16,7 @@
 
 - 🌟 Certifications: **Azure AZ-900**
 
-- 💬 Ask me about: **Data Science / Java**
+- 💬 Ask me about: **Data Science / Computer Vision / Python / Java**
 
 - 📫 How to reach me: **henrique at grigolli dot dev**
 
