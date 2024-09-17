@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Henrique Grigolli</h1>
 <h3 align="center"></h3>
 
-- 👨🏻‍💻 Java Developer at SISTRAN Informatica:
+- 👨🏻‍💻 Senior Java Developer at SISTRAN Informatica:
   - Acted as a technical leader in an agile squad, participating in Scrum ceremonies and facilitating discussions to
   support decision-making and conflict resolution
   - Suggested, tested, and monitored the adoption of new technologies, driving innovation and continuous
