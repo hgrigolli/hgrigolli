@@ -1,14 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Henrique Grigolli</h1>
 <h3 align="center"></h3>
 
-- 👨🏻‍💻 Senior Java Developer at SISTRAN Informatica:
-  - Acted as a technical leader in an agile squad, participating in Scrum ceremonies and facilitating discussions to
-  support decision-making and conflict resolution
-  - Suggested, tested, and monitored the adoption of new technologies, driving innovation and continuous
-  improvement in software development
-  - Wrote clean, tested, and well-documented code, while proposing solutions for complex programming problems
-  - Provided technical guidance as well as mentorship to junior developers
-  - Supervised sprint execution and tracking, ensuring deliveries aligned with technical and business requirements
+- 👨🏻‍💻 Senior Java Developer at GFT Technologies
 
 - 🌱 I’m currently learning: **Data Science**
 
